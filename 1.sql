@@ -1,0 +1,1 @@
+select subject from subject
